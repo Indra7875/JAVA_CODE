@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5768ccd-c34d-4b1e-9f30-7da6c5832578" name="Changes" comment="" />
+    <list default="true" id="b5768ccd-c34d-4b1e-9f30-7da6c5832578" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Variables.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,16 +40,61 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Variables">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+  <component name="RunManager" selected="Application.TypeCasting">
+    <configuration name="Byte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.Byte" />
       <module name="Basic_Java_Programms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+    <configuration name="Long" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.Long" />
+      <module name="Basic_Java_Programms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Short" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.Short" />
+      <module name="Basic_Java_Programms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeCasting.TypeCasting" />
+      <module name="Basic_Java_Programms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="typeCasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primitiveDataTypes.Int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.Int" />
       <module name="Basic_Java_Programms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,8 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.Long" />
+        <item itemvalue="Application.primitiveDataTypes.Int" />
+        <item itemvalue="Application.Byte" />
+        <item itemvalue="Application.Short" />
       </list>
     </recent_temporary>
   </component>
